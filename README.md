@@ -1,4 +1,6 @@
-# LabCGeIHC03
-Control de versiones en el cual se creará una nueva rama cada práctica.
+Facultad de Ingeniería - UNAM
+Ingeniería en Computación
 
+Laboratorio de Computación Gráfica e Interacción Humano-Computadora
 Sosa Gutiérrez Braulio Josué
+Semestre 27-1
